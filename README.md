@@ -2,9 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
  <p align='left'> I'm a frontend developer specializing in <strong>React and Redux</strong>.<br>
-  As a software engineer, I enjoy using my obsessive attention to detail,<br> my unequivocal love for making things that change the world. <br>
-  That's why I like to make things that make a difference. </p>
-  <br/>
+  
   <hr/>
   
 <h3>Contact me:</h3>
